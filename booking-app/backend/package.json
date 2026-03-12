@@ -1,0 +1,17 @@
+{
+  "name": "booking-app",
+  "version": "1.0.0",
+  "description": "booking app",
+  "author": "JohnBrown",
+  "license": "MIT",
+  "main": "app.js",
+  "keywords": [
+    "nodejs",
+    "bootstrap",
+    "express"
+  ],
+  "dependencies": {
+    "express": "^4.16.4",
+    "cors": "^2.8.5"
+  }
+}
