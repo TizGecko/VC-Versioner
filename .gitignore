@@ -1,0 +1,6 @@
+# Ignore Eclipse files
+.project
+.settings
+
+# Ignore MAC OS files
+*.DS_Store
